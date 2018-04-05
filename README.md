@@ -1,24 +1,25 @@
-# README
+# Git Visuals
+> This web application visualizes github data.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+My team and I noticed how much data there is on github, we also know that unless you are an engineer it can be quite diffucult to navigate around github.The purpose behing gitVisuals was to help employers/recruiters to easily visualize a canditates github profile into readable graphs. Rather than spend hours trying to figure out what the candidates most used language is, or how many repositories they have created, with gitVisuals this can all be done by searching for the candidates github username.
 
-* Ruby version
 
-* System dependencies
+## Installation
 
-* Configuration
+run:
 
-* Database creation
+```sh
+bundle
+```
 
-* Database initialization
+## Meta
 
-* How to run the test suite
+Esmery Corniel – [@esmery_corniel](https://twitter.com/esmery_corniel)(Twitter) – [@esmerycornielle](https://medium.com/@esmerycornielle)(Blogs)
 
-* Services (job queues, cache servers, search engines, etc.)
+This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-* Deployment instructions
 
-* ...
+
+
+
